@@ -64,7 +64,7 @@
 // *****************************************************************************
 // Section: MODE OF OPERATION
 // *****************************************************************************  
-#define OPENLOOP
+#undef OPENLOOP
 
 /* GLOBAL DEFINES FOR FUNCTIONING MODE */
 /* undefine for negation */
