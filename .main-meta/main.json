@@ -35,12 +35,12 @@
          }
       },
       "keywords":[
-        "Motor Control",
-      	"PMSM",
-		"Hall Sensor",
-        "dsPIC"
-		"ADC",
-		"PWM"
+         "Motor Control",
+         "PMSM",
+         "Hall Sensor",
+         "dsPIC",
+         "ADC",
+         "PWM"
       ]
    }
 }
