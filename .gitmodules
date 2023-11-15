@@ -2,3 +2,7 @@
 	path = library/library-motor
 	url = https://github.com/microchip-pic-avr-solutions/library-motor
 	branch = master
+[submodule "mcsk-an1017-dspic33ck256mp508/library/library-motor"]
+	path = mcsk-an1017-dspic33ck256mp508/library/library-motor
+	url = https://github.com/microchip-pic-avr-solutions/library-motor
+	branch = master
