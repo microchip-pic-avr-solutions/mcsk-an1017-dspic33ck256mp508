@@ -1,4 +1,0 @@
-[submodule "library/library-motor"]
-	path = library/library-motor
-	url = https://github.com/microchip-pic-avr-solutions/library-motor
-	branch = master
